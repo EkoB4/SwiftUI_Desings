@@ -15,7 +15,6 @@
 		35FB0325270E3A19006D2EB4 /* uplabScreenDesingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35FB0324270E3A19006D2EB4 /* uplabScreenDesingUITests.swift */; };
 		35FB0333270E3A31006D2EB4 /* Screens.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35FB0332270E3A31006D2EB4 /* Screens.swift */; };
 		35FB0336270EFD7E006D2EB4 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35FB0335270EFD7E006D2EB4 /* MapView.swift */; };
-		35FB0338270F340A006D2EB4 /* Tesy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35FB0337270F3409006D2EB4 /* Tesy.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +49,6 @@
 		35FB0326270E3A19006D2EB4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		35FB0332270E3A31006D2EB4 /* Screens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screens.swift; sourceTree = "<group>"; };
 		35FB0335270EFD7E006D2EB4 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
-		35FB0337270F3409006D2EB4 /* Tesy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tesy.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,7 +79,6 @@
 		35FB02FB270E3A15006D2EB4 = {
 			isa = PBXGroup;
 			children = (
-				35FB0337270F3409006D2EB4 /* Tesy.swift */,
 				35FB0334270E3A3D006D2EB4 /* Elements */,
 				35FB0306270E3A15006D2EB4 /* uplabScreenDesing */,
 				35FB0318270E3A18006D2EB4 /* uplabScreenDesingTests */,
@@ -278,7 +275,6 @@
 			files = (
 				35FB0333270E3A31006D2EB4 /* Screens.swift in Sources */,
 				35FB0336270EFD7E006D2EB4 /* MapView.swift in Sources */,
-				35FB0338270F340A006D2EB4 /* Tesy.swift in Sources */,
 				35FB030A270E3A15006D2EB4 /* ContentView.swift in Sources */,
 				35FB0308270E3A15006D2EB4 /* uplabScreenDesingApp.swift in Sources */,
 			);
